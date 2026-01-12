@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm V. V. Vijay Kumar</h1>
 <h3 align="center">Backend Developer in Progress | Aspiring DevOps Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VijayKumar-028&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
@@ -55,11 +53,11 @@
 </p>
 
 #### ☁️ DevOps & Cloud
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="28"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28"/>
+<p align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 #### 🧰 Tools & Others
@@ -73,8 +71,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VijayKumar-028&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VijayKumar-028&layout=compact&hide_border=true" height="150"/>
-</p>
