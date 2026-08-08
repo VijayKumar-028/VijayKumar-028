@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm V. V. Vijay Kumar</h1>
-<h3 align="center">Backend Developer in Progress | Aspiring DevOps Engineer</h3>
+<h3 align="center">Backend Developer in Progress | Aspiring AI Engineer</h3>
 
 
 
